@@ -1,0 +1,42 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Kaveet",
+    "longName": "NiftyKnit",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_reset.png",
+                "name": "IMAGE_ACTION_ICON_RESET",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_minus.png",
+                "name": "IMAGE_ACTION_ICON_MINUS",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_plus.png",
+                "name": "IMAGE_ACTION_ICON_PLUS",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "NiftyKnit",
+    "uuid": "675fbf1d-3c9e-4ff8-afdc-2ce0ae56cf9f",
+    "versionCode": 1,
+    "versionLabel": "1.2.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
